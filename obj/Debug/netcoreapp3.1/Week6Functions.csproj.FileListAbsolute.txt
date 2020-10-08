@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.exe
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.deps.json
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.dll
+C:\Users\opilane\source\repos\Week6Functions\bin\Debug\netcoreapp3.1\Week6Functions.pdb
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.dll
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.pdb
+C:\Users\opilane\source\repos\Week6Functions\obj\Debug\netcoreapp3.1\Week6Functions.genruntimeconfig.cache
